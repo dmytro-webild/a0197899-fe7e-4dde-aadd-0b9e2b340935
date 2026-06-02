@@ -106,7 +106,7 @@ export default function LandingPage() {
       description="At Oké Poké Bowl, we believe in fresh, high-quality ingredients. We source local produce whenever possible and combine it with the vibrant flavors of Hawaiian poké, crafted with care for our Casablanca community. Every bowl is a celebration of taste and health."
       buttons={[
         {
-          text: "Discover Our Story",          href: "#"},
+          text: "Discover Our Story",          href: "#features"},
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/woman-taking-green-salad-with-herbs-vegetables_114579-2166.jpg"
       imageAlt="Chef preparing fresh ingredients for a poké bowl"
