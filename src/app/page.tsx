@@ -255,7 +255,7 @@ export default function LandingPage() {
         variant: "plain"}}
       tag="Get in Touch"
       title="Visit Us or Get in Touch"
-      description="Located in the heart of Casablanca, we're ready to serve you the freshest poké bowls. Contact us for catering, special requests, or just to say hello! Our team is happy to assist."
+      description="Located at 45 Boulevard d'Anfa, Casablanca 20000, Morocco, we're ready to serve you the freshest poké bowls. Reach us at +212 5 22 44 55 66 for catering, special requests, or just to say hello! Our team is happy to assist."
       imageSrc="http://img.b2bpic.net/free-photo/person-traveling-trought-city_23-2149297296.jpg"
       imageAlt="Map showing Oké Poké Bowl location in Casablanca"
       mediaAnimation="opacity"
